@@ -16,7 +16,7 @@
 
 + Katılımcılara bir projenin kodlama aşamasında nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de hedefler arasındadır
 
-+ Kurs PostGreSQL veritabanı yönetim sistemi kullanılacak ve veri tabanı tasarımı konusunda da katılımcılara fayda sağlayacaktır
++ Kursta PostgreSQL veritabanı yönetim sistemi kullanılacak ve kurs veri tabanı tasarımı konusunda da katılımcılara fayda sağlayacaktır
 
 ## Ön Koşul
 Bu programa katılabilmek için daha _Java_ veya _C#_ dillerinden birini bilmek ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C# ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir
