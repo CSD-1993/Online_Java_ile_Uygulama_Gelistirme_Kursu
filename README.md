@@ -8,7 +8,7 @@
 + Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/sss.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online_Java_ile_Uygulama_Gelistirme_Kursu/blob/master/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online_Java_ile_Uygulama_Gelistirme_Kursu/blob/master/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online_Java_ile_Uygulama_Gelistirme_Kursu/blob/master/sss.md)
 + [Kursa Kayıt](https://zoom.us/meeting/register/tJIrdOCtqT8oGNx7WyEmRBCpoDFasTWWcSRQ)
