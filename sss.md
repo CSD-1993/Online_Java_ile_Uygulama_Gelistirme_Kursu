@@ -1,6 +1,6 @@
-# Online Java ile Uygulama Geliştirme Kursu – Sık Sorulan Sorular
+# Online Java ile Nesne Yönelimli Programlama Kursu – Sık Sorulan Sorular
 
-Aşağıda __Oğuz Karan__ tarafından verilen _Online Java ile Uygulama Geliştirme Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
+Aşağıda __Oğuz Karan__ tarafından verilen _Online Java ile Nesne Yönelimli Programlama Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kursa örgün (fiziksel) katılım mümkün mü?
 Evet. Ancak __Covid19__ Salgını ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
@@ -17,7 +17,7 @@ Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar ku
 İnternet bağlantısı olan herhangi bir yerden derslere katılabilirsiniz.
 
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
-Dersleri izleyen 2 gün içinde dersleri size özel verilecek şifre ile `Vimeo`'dan izleyebilirsiniz.
+Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile `Vimeo`'dan izleyebilirsiniz.
 
 ### 160 saatlik bir kurs süresi çok uzun değil mi?
 Eğitim içeriği göz önüne alındığında __160__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
@@ -37,13 +37,13 @@ Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Dersl
 
 + Anlamadığınız noktaları eğitmene sormalısınız.
 
-+ __Java ile Uygulama Geliştirme Kursu__ çok kolay değil. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
++ __Java ile Nesne Yönelimli Programlama Kursu__ çok kolay değil. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
 
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
 
 ## Daha önce programlama ile tanışmadım. Kursa katılmam uygun olur mu?
-Eğer daha önce programlama ile tanışmadıysanız bu kursa katılmanız uygun olmayabilir. __C ve Sistem Programcıları Derneği__ tarafından düzenlenen __Programlamaya Giriş__ kursuna katlabilirsiniz.
+Eğer daha önce programlama ile tanışmadıysanız bu kursa katılmanızuygun olmayabilir. __C ve Sistem Programcıları Derneği__ tarafından düzenlenen __Programlamaya Giriş__ kursuna katlabilirsiniz.
 
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.
