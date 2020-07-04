@@ -1,293 +1,129 @@
-# Java ile Nesne Yönelimli Programlama
+# Java ile Uygulama Geliştirme
 
-## Temel kavramlar
-+ Java ortamı
-+ _JDK_ ve _JVM_
-+ Çevirici programlar, derleyiciler yorumlayıcılar
-+ İşletim Sistemleri
-+ IDE _(Integrated Development Environment)_ programları
-+ Temel sayı sistemleri
-+ JDK kurulumu
-+ Merhaba Java program
-+ Metot bildirimi
-+ Metotların çağrılması
+## Yararlı sınıflar
++ StringBuilder sınıfı
++ BigDecimal sınıfı
++ BigInteger sınıfı
++ Arrays sınıfı
++ Timer sınıfı
++ Çeşiti yararlı sınıfların yazılması
 
-## Tür kavramı
-+ Java’da temel türler
-+ Tamsayı türleri, gerçek sayı türleri, _char_ türü ve _boolean_ türü 
-+ Değişkenler ve faaliyet alanı
-+ Yerel değişkenler
+## Jar (Java Archive) dosyaları
++ IntelliJ ve Eclipse ile jar oluşturma
++ Birbirlerini kullanan jar dosyaları
++ Çalışabilen jar dosyaları
++ Bir kütüphane tasarımında dikkat edilecek durumlar
++ Çeşitli profesyonel kütüphaneler
 
-## Metotlar
-+ Metotların geri dönüş değerleri
-+ _return_ deyimi
-+ Metotların parametre değişkenleri
-+ Matematiksel işlem yapan yararlı metotlar: _Math_ sınıfı
+## Annotation'lar
++ Annotation bildirimi
++ Annotation'ın anlamı
++ Class, Source ve runtime annotation'lar
++ Retention annotation
++ Target Annotation
++ Inherited Annotation
++ Java'nın standart annotation'ları
 
-## Temel Operatörler
-+ Operatörlerin sınıflandırılması
-+ Operatör önceliği
-+ Aritmetik Operatörler
-+ Karşılaştırma operatörleri
-+ Mantıksal operatörler
-+ Mantıksal operatörlerin kısa devre davranışları
-+ Atama operatörü
-+ İşlemli atama operatörleri
+## Temel Reflection işlemleri
++ Class sınıfı 
++ Sınıf elemanlarına ilişkin bilgilerin elde edilmesi
++ Annotation bilgisinin reflection ile elde edilmesi
++ Sınıfın public olmayan elemanlarına çalışma zamanı sırasında erişim
++ Reflection kullanarak çalışma zamanında eklenen jar dosyaları ile plugin oluşturma
++ Örnek uygulamalar
 
-## Kontrol deyimleri
-+ _if_ deyimi
-+ while döngü deyimi
-+ _do while_ döngü deyimi
-+ _for_ döngü deyimi
-+ _break_ ve _continue_ deyimleri
-+ Etiketli _break_ ve etiketli _continue_ deyimleri
-+ _switch_ deyimi
-+ Örnek programlar
+## İçiçe tür bildirimleri
++ Effectively final kavramı
++ Anonim sınıflar
++ Anonim sınıfların değişkenleri yakalaması (capture)
++ Yerel sınıflar
++ Sınıf içinde static sınıf bildirimi (nested classes)
++ Sınıf içinde non-static sınıf bildirimi (inner classes)
++ Yerel sınıflar (local classes)
++ Örnek uygulamalar
 
-## Tür dönüştürmeleri
-+ Farklı türlerin birbirine atanması
-+ İşlem öncesi otomatik tür dönüşümleri
-+ Tür dönüştürme operatörü
+## Java Programlama diline eklenen yeni özellikler
++ Özellikle Java 8 ile eklenen özellikler ile kurs sırasındaki son Java versiyonuna göre eklentiler anlatılacaktır
++ Fonksiyonel arayüzler (functional interfaces)
++ java.util.function paketi içerisindeki fonksiyonel arayüzler
++ Lambda ifadeleri
++ Lambda ifadelerinde değişkenlerin yakalanması (capture)
++ Lambda ifadelerinde tür çıkarımı
++ Lambda geri dönen metotlar
++ Optional sınıfları (Optional<T>, IntOptional, LongOptional ve DoubleOptional sınıfları)
++ var değişkenler (Java 10)
++ switch expression (Java 14)
++ record türleri (Java 14)
++ Module kavramı
++ Örnek uygulamalar
 
-## Koşul operatörü
-+ Koşul operatörünün özellikleri
-+ Koşul operatörünün kullanıldığı durumlar
+## Java ile Fonksiyonel Programlama
++ Fonksiyonel programlama tekniği 
++ Java' da fonksiyonel programlama
++ Parametresi fonksiyonel arayüz referansı olan metotlar
++ Callback kavramı
++ Örnek uygulamalar
 
-## Aynı isimde metotlar _(method overloading)_
-+ Bir sınıf içerisinde aynı isimde metotlar
-+ Bir metodun imzası
-+ Çağırma sırasında hangi metodun çağrılacağının belirlenme süreci _(overload resolution)_
-+ Tam uyum _(best match)_
-+ Tam uyum olmadığında hangi metodun çağrılacağının belirlenme süreci
+## Nesne tutan sınıfların (collections) ayrıntılı incelenmesi
++ İleri generic işlemleri
++ Iterable ve Iterator arayüzleri
++ Bir sınıfın for-each döngü deyimi ile dolaşılabilir biçimde yazılması
++ Örnek sınıfların yazılması ve jar dosyaları oluşturma
++ Collection arayüzü ve anlamı
++ Liste tarzı collection sınıflar ve List arayüzü
++ Object sınıfının equals metodu ve anlamı
++ Küme tarzı collection sınıflar ve Set arayüzü
++ TreeSet sınıfı
++ Comparable ve Comparator arayüzleri
++ Object sınıfının hashCode metodu ve anlamı
++ HashMap sınıfı
++ Diğer collection sınıflar (Stack, PriorityQueue vb.)
++ Sözlük tarzı collection sınıfları ve Map arayüzü
++ HashMap sınıfı
++ Collections sınıfının yararlı metotları
++ Uygulama geliştirmede doğru collection sınıflarının seçimi
++ Örnek uygulamalar
 
-## Nesne Yönelimli Programlama Tekniği
-+ Nesne yönelimli programlama tekniğine ilişkin temel kavramlar
-+ Sınıf ve nesne kavramları
-+ Aynı isimde metotların anlamı
-+ Diğer programlama teknikleri hakkında bilgiler
+## Stream API kullanımı
++ Stream arayüzü ve anlamı
++ Stream<T>, IntStream, LongStream ve DoubleStream arayüzleri
++ StreamSupport sınıfı
++ Stream arayüzlerinin metotları
++ Örnek uygulamalar
 
-## Adres kavramı
-+ Adres kavramı
-+ Stack ve heap alanları
-+ Ömür _(storage duration)_ kavramı: yerel ve parametre değişkenlerinin ömürleri
-
-## Temel sınıf kavramları
-+ Sınıf ve nesne kavramları
-+ Referans türleri ve değer türleri
-+ Referans kavramı
-+ _new_ operatörü
-+ Sınıfın _static_ olmayan veri elemanlarına erişim ve nokta operatörü
-+ Sınıfın _static_ olmayan veri elemanlarının varsayılan değerleri
-+ Referans parametreli metotlar
-+ Referans geri dönüş değerli metotlar
-+ Sınıfın _static_ veri elemanları
-+ Sınıfın _non-static_ ve _static_ metotları
-+ Sınıfın _non-static_ metotları içerisinde _non-static_ ve _static_ elemanlara doğrudan erişim durumu
-+ Sınıfın _static_ metotları içerisinde _non-static_ ve _static_ elemanlara doğrudan erişim durumu
-+ Örnek yararlı sınıflar
-
-## Sınıfların başlangıç metotları _(constructors)_
-+ Nesne oluşturulması adımları
-+ Sınıfın varsayılan _(default)_ başlangıç metodu
-+ Başlangıç metotlarının _overload_ edilmesi
-+ Örnek yararlı sınıflar
-
-## Rasgele sayı üretimi _(Random sınıfı)_
-+ Rasgele sayı üretimi
-+ Random sınfının metotları
-+ Tohum değeri _(seed value)_ kavramı 
-+ _Random_ sınıfının tohum değeri parametreli başlangıç metodu ve _setSeed_ metodu
-+ Örnek programlar
-
-## String sınıfı
-+ _Immutable_ sınıf kavramı
-+ _String_ nesnesinin bellekteki durumu
-+ _String_ sabitleri _(String literals)_
-+ _String_ sınıfının metotları
-+ _String_ işlemlerine yönelik yararlı metotların yazılması
-+ Örnek programlar
-
-## Diziler (Arrays) ve uygulamalar
-+ Dizi referansları
-+ Diziye ilişkin nesnelerin bellekteki durumu
-+ Dizi elemanlarına erişim
-+ Dizilere ilk değer verilmesi
-+ Dizilerin metotlara geçirilmesi: dizi referansı parametreli metotlar
-+ Dizi referansı döndüren metotlar
-+ Dizilere ilişkin temel algoritmaların yazımı
-+ Dizilere ilişkin yararlı metotların yazımı
-+ Dizilerde bazı sıralama algoritmaları: kabarcık sıralaması _(bubble sort)_ ve _seçerek sıralama _(selection sort)_ algoritmaları
-+ _char_ türden diziler
-+ _char_ türden diziler ve _String_ sınıfı
-+ Referans dizileri
-+ Referans dizilerine ilkdeğer verilmesi
-+ _String_ türden diziler
-+ Dizi dizileri
-+ Dizi dizilerinin çok boyutlu dizi gibi kullanılması
-+ Dizi dizilerine ilk değer verilmesi
-+ Matrisler ve matrislere ilişkin algoritmalar
-+ Örnek programlar
-
-## Paketler
-+ Paket kavramı
-+ Farklı paketlerdeki sınıflara erişim
-+ İçiçe paket bildirimleri
-+ Paketler ve dizinlerin ilişkisi
-+ Paket isimlendirmesine ilişkin teknikler
-+ Kaynak dizin _(source folder)_
-+ Yazılmış olan yararlı sınıflara ilişki uygun paketler
-
-## İsim arama
-+ Niteliksiz _(unqualified)_ isim arama
-+ Nitelikli _(qualified)_ isim arama
-+ _import_ bildirimleri _(import on demand declaration, import single type declaration)_
-+ _import static_ bildirimleri _(import static on demand declaration, import static single type declaration)_
-
-## Sınıflarda temel erişim kuralları
-+ _public_ erişimcisi
-+ _private_ erişimcisi
-+ Erişim belirleyicilerin paketlerle ilişkisi
-+ _no-modifier_ erişimcisi
-+ _protected_ erişimcisi
-+ Başlangıç metodunun _private_ olması durumu
-+ _Singleton_ sınıf tasarımı: _lazy implementation_
-+ Örnek sınıflar
-
-## Sınıflar arası ilişkiler
-+ _Composition_
-+ _Aggregation_
-+ _Association_
-+ _Inheritance_
-+ Sınıflar arası ilişkilerin modellenmesi
-
-## Türetme (inheritance)
-+ _Super class_ (taban sınıf) ve _sub class_ (türemiş sınıf) kavramları
-+ Türetme sentaksı
-+ Başlangıç metodu içerisinde taban sınıfın başlangıç metodunun çağrılması
-+ Başlangıç metodu içerisinde taban sınfın istenilen başlangıç metodunun çağrılması: _super_ sentaksı
-+ Başlangıç metodu içerisinde başka bir başlangıç metodunun çağrılması: _this_ sentaksı
-+ _protected_ bölümün anlamı
-+ Object sınıfı
-+ Örnek sınıflar
-
-## Taban sınıf ve türemiş sınıf arasındaki dönüşümler
-+ Yukarıya doğru dönüşüm _(upcasting)_
-+ Yukarıya doğru dönüşümün anlamı
-+ Referansların statik ve dinamik türleri
-+ Aşağıya doğru dönüşüm _(down-casting)_
-+ Haklı ve haksız dönüşüm kavramı
-+ _instanceof_ opetörü
-+ Sarmalayan _(wrapper)_ sınıflar
-+ Number sınıfı ve metotlarının anlamı
-+ Otomatik kutulama _(auto-boxing)_ ve otomatik kutuyu açma _(auto-unboxing)_
-+ _final_ sınıflar
-+ Örnek programlar
-
-## Sınıflar içerisinde bloklar
-+ Sınıfların _static_ blokları _(static initializers)_
-+ Sınıfların _static_ olmayan blokları _(non-static initializers)_
-
-## this referansı
-+ _this_ referansının anlamı
-+ _non-static_ metotlar içerisinde _this_ kullanmı
-+ _this_ referansının kullanıldığı örnek durumlar: _fluent_ kalıbı
-+ Örnek sınıflar
-
-## null referans
-+ _null_ adres kavramı ve _null_ sabiti
-+ _null_ referansın kullanıldığı durumlar
-
-## Temel algoritma analizi
-+ Algoritmanın karmaşıklığı
-+ Karmaşıklığın ölçütü
-+ Karmaşıklığın gösterimine ilişkin notasyonlar
-+ _Big O_ notasyonu ile çeşitli karmaşıklık durumlarının incelenmesi
-+ O(1), O(logn), O(n), O(n * Logn), O(n ^ 2), O(n ^ 3), ... , O(n ^ k) karmaşıklıkları
-+ O(k ^ n), O(n!) gibi özel karmaşıklıklar
-
-## Dinamik büyüyen dizi veri yapısı
-+ Dinamik büyüyen veri yapısına ilişkin temel kavramlar: _capacity_, _size_ vs.
-+ Dinamik büyüyen veri yapısına ilişkin metotların karmaşıklık durumları
-+ _ArrayList_ ve _Vector_ sınıfları
-+ Örnek programlar
-+ Örnek bir dinamik büyüyen dizi sınıfının yazılması
-
-## Çok biçimlilik (polymorphism)
-+ Çok biçimliliğin programlamaya yönelik tanımları
-+ Çok biçimli mekanizma
-+ Sanal metotlar
-+ Sanal metotların _override_ edilmesi
-+ Metotların _override_ edilmesinin anlamı
-+ _super_ referansı
-+ _Override_ edilen metot içerisinde taban sınıfın aynı metodunun çağrılması _(augmentation)_
-+ _Override_ edilen metodun erişim belirleyicisinin erişim anlamında yükseltilmesi
-+ _final_ metotlar
-+ Çok biçimliliğe ilişkin örnek tasarımlar ve kodlanması
-
-## Soyut sınıflar ve metotlar (abstract classes and methods)
-+ Soyut sınıf ve metotların anlamı
-+ Soyut metotların _override_ edilmesi
-+ Soyut metotların _override_ edilmemesi durumu
-+ Soyut sınıfların taban sınıf referansı olarak kullanılması
-+ Soyut sınıfların başlangıç metotları
-+ Örnek sınıflar
-
-## Exception işlemleri
-+ _Exception_ kavramı kullanımı
-+ _Exception_ sınıf hiyerarşisi: _Throwable_, _Exception_, _Error_ ve _RuntimeException_ sınıfları
-+ _throw_ anahtar sözcüğü ve bir _exception_ nesnesinin fırlatılması
-+ _try_ blokları
-+ _catch_ blokları
-+ _catch_ blokları parametrelerine ilişkin sınıflar ve uygun _catch_ bloğunun bulunması
-+ Yeniden fırlatma _(rethrow)_
-+ İçiçe _try_ bloklarının bulunması durumu
-+ _finally_ bloğu
-+ Yakalanamayan _exception_ durumu
-+ _Exception_ sınıflarının anlamı
-+ _Cause exception_
-+ _checked_ ve _unchecked exception_ sınıfları
-+ _throws_ anahtar sözcüğü
-+ Önemli _exception_ sınıfları
-+ Örnek sınıfların _exception_ açısından düzenlenmesi ve genel hale getirilmesi
-
-## Arayüzler _(interfaces)_
-+ Arayüzlerin elemanları
-+ Arayüzler içerisinde olabilecek elemanların Java sürümlerine göre farklılıkları
-+ Bir sınıfın desteklediği arayüzler ve metotların _override_ edilmesi
-+ _Marker_ arayüzler, fonksiyonel arayüzler
-+ Java 8 ile eklenen arayüz içerisinde _default_ metotlar ve _static_ metotlar
-+ Arayüzler ile _abstract_ sınıflar arasındaki farklar
-+ Arayüzler arası tür dönüştürme ayrıntıları
-+ Çok kullanılan bazı arayüzler
-+ _try-with resources_ bloğu ve kullanımı: _AutoCloseable_ ve _Closeable_ arayüzleri
-
-## Dosya işlemleri
-+ Dosya ve dizin _(directory)_ kavramları
-+ Dosya yol ifadeleri: _absolute_ and _relative_ path
-+ Processin çalışma dizini _(current working directory)_
-+ Metin _(text)_ ve ikili (binary) dosyalar
-+ Dosya üzerinde bütünsel işlemler yapan sınıflar
-+ Dosyalar üzerinde ayrıntılı işlem yapan sınıflar
-+ _File_ sınıfının dosya ve dizinler üzerinde işlem yapan metotlar
-+ _Path_ arayüzü ve _Files_ sınıfı
-+ _InputStream_ ve _OutputStream_ soyut sınıfları
-+ _FileInputStream_ ve _FileOutputStream_ sınıfları
-+ Dosya göstericisi _(file pointer)_ kavramı
-+ Dosya göstericisinin _EOF_ durumu
-+ Dosyadan okuma ve yazma işlemleri
-+ _RandomAccessFile_ sınıfı 
-+ Dosya göstericisinin konumlandırılması
-+ Örnek programlar
-
-## Generic sınıflar ve metotlar
-+ Generic sınıflar
-+ Generic sınıflarda türetme işlemleri
-+ Generic sınıflarda _new_ operatörü ile _<> (diamond syntax)_ kullanımı
-+ Generic arayüzler
-+ Generic türlerde kısıtlar: _extends_ ve _super_ anahtar sözcüğünün _generic_ parametrelerde kullanımı
-+ Generic türlerde joker karakter
-+ Generic sınıflarda alt sınır ve üst sınır belirlenmesi _(invariant, covariant ve contra-variant)_
-+ Generic metotlar
-+ Generic metotlarda parametre türlerinin tespiti
-+ Generic türlerin ve metotların generic parametrelerinin arakoda _Object_ olarak aktarılması
-+ Örnek sınıflar ve programlar
+## Spring uygulamaları
++ Maven build aracı kurulumu ve kullanımı
++ Spring framework
++ Spring boot
++ Core annotaions (Component, Configuration, Bean, Order, DependsOn, Qualifier vb.)
++ Bean kavramı ve bean sınıflar
++ ApplicationRunner arayüzü
++ Scope annotation
++ application.properties dosyası
++ profile oluşturma
++ yml dosyaları
++ Maven ile jar oluşturma ve kullanma
++ Test işlemleri (JUnit vb)
++ Spring boot uygulamasının jar ile yayınlanması (deployment)
++ Spring asenkron işlemler
++ Scheduled annotation'ı
++ Controller kavramı ve MVC (Model View Controller) tasarım kalıbı
++ Servlet kavramı, HttpServletRequest ve HttpServletResponse sınıfları
++ Spring REST servisler (JSON ve XML)
++ Katmanlı mimari uygulamaları (Repository, Service ve Application katmanları)
++ DTO (Data Transfer Object) tasarım kalıbı
++ MVVM (Model View View Model) tasarım kalıbı
++ Map Struct kütüphanesi
++ ModelMapper kütüphanesi
++ JDBC ile veritabanı işlemleri
++ Spring JPA ve Hibernate
++ CrudRepository arayüzü
++ JPARepository arayüzü
++ PostgreSQL veritabanı, JPA, Hibernate kullanımı
++ Thymeleaf kullanımı (temel düzeyde)
++ Spring boot exception işlemleri
++ Spring Security 
++ Spring ile reactif programlama (WebFlux)
++ Spring MongoDB uygulamaları
++ Mikroservisler
++ Örnek Uygulamalar
