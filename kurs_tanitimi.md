@@ -6,7 +6,7 @@
  
 + Bu kurs katılımcıların öncelikle _Java_ programlama dilini kullanarak profesyonel düzeyde uygulama geliştirme becerisi edinmelerini hedeflemektedir.
 
-+ _Java_ ile uygulama geliştirirken kullanılan popüler ortamlar anlatılmktadır
++ _Java_ ile uygulama geliştirirken kullanılan popüler ortamlar anlatılmaktadır
 
 + Kurs içerisinde irili ufaklı bir çok uygulama geliştirilecektir
 
