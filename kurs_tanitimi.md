@@ -4,9 +4,9 @@
 
 + __Covid19 Salgını__ ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
  
-+ Bu kurs katılımcıların öncelikle _Java_ programlama dilini kullanarak profesyonel düzeyde uygulama geliştirme becerisi edinmelerini hedeflemektedir.
++ Bu kurs katılımcıların öncelikle Java programlama dilini kullanarak profesyonel düzeyde uygulama geliştirme becerisi edinmelerini hedeflemektedir.
 
-+ _Java_ ile uygulama geliştirirken kullanılan popüler ortamlar anlatılmaktadır
++ Java ile uygulama geliştirmede çok yaygın olarak kullanılan "Spring (boot)" anlatılacaktır.
 
 + Kurs içerisinde irili ufaklı bir çok uygulama geliştirilecektir
 
@@ -14,9 +14,9 @@
 
 + Katılımcılara özelllikle büyük bir projede geliştirici olabilecekleri şekilde uygulamalar yapılacaktır.
 
-+ Katılımcılara bir projenin kodlama aşamasında nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de hedefler arasındadır
++ Katılımcılara bir projenin kodlama aşamasında nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de anlatılacak, buna yönelik uygulamalar yapılacaktır.
 
-+ Kursta PostgreSQL veritabanı yönetim sistemi kullanılacak ve kurs veri tabanı tasarımı konusunda da katılımcılara fayda sağlayacaktır
++ Kursta genel olarak PostgreSQL veritabanı yönetim sistemi kullanılacak, veritabanı tasarımı ve veritabanı programlama konusunda da belirli ölçüde katılımcılara fayda sağlayacaktır
 
 ## Ön Koşul
 Bu programa katılabilmek için daha _Java_ veya _C#_ dillerinden birini bilmek ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C# ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir
