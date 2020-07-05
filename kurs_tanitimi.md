@@ -66,7 +66,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 
 + Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
 
-+ Eğitim dili Türkçe’dir. Programlama ile Java ve kullanılan teknolojilerle ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
++ Eğitim dili Türkçe’dir. Programlama, Java ve kullanılan teknolojilerle ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 2 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
@@ -74,7 +74,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _Java ile Uygulama Geliştirme_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti **KDV HARİÇ 3250 TL**‘dir. Öğrenci olanlara **KDV HARİÇ 2950 TL**_(öğrencilik durumunu belgelemeleri kaydıyla)_  Katılımcılar, eğitim programı ücretini dilerlerse __3 taksitte__ ödeyebilirler. Peşin ödemede __%10__ indirim uygulanmaktadır
+Programın toplam ücreti **KDV HARİÇ 3250 TL**‘dir. Öğrenci olanlara **KDV HARİÇ 2950 TL**_ (öğrencilik durumunu belgelemeleri kaydıyla)_  Katılımcılar, eğitim programı ücretini dilerlerse __3 taksitte__ ödeyebilirler. Peşin ödemede __%10__ indirim uygulanmaktadır
 
 ## Eğitim Programına Kayıt
 [Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZYocuqgqzsqG9D_4ut7rUzzOEual3xW0rpO). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
