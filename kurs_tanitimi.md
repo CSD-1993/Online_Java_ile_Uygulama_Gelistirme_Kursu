@@ -10,11 +10,11 @@
 
 + Kurs içerisinde irili ufaklı bir çok uygulama geliştirilecektir
 
-+ Büyük projeler için kullanılacak mimariler uygulamalı olarak ele alınacaktır.
++ Büyük projeler geliştirilirken kullanılan yaklaşımlar ve mimariler uygulamalı olarak ele alınacaktır.
 
 + Katılımcılara özelllikle büyük bir projede geliştirici olabilecekleri şekilde uygulamalar yapılacaktır.
 
-+ Katılımcılara bir projenin kodlama aşamasında nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de anlatılacak, buna yönelik uygulamalar yapılacaktır.
++ Katılımcılara bir projenin kodlama aşamasında nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de anlatılacak, bunlara yönelik uygulamalar yapılacaktır.
 
 + Kursta genel olarak PostgreSQL veritabanı yönetim sistemi kullanılacak, veritabanı tasarımı ve veritabanı programlama konusunda da belirli ölçüde katılımcılara fayda sağlayacaktır
 
