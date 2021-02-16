@@ -1,7 +1,7 @@
 # Java ile Uygulama Geliştirme
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
-+ Kursun __21 Şubat 2021 Pazar__ günü başlayacaktır.
++ Kursun __27 Şubat 2021 Cumartesi__ günü başlayacaktır.
 + __Covid19__ Salgını ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Kursta irili ufaklı birçok profesyonel kodlar yazılacak ve profesyonel uygulamalar yapılacaktır
