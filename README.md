@@ -7,7 +7,7 @@
 + Kursta irili ufaklı birçok profesyonel kodlar yazılacak ve profesyonel uygulamalar yapılacaktır
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __17:00 - 19:00__ saatleri arasında yapılacaktır.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online_Java_ile_Uygulama_Gelistirme_Kursu/blob/master/kurs_tanitimi.md)
