@@ -91,8 +91,15 @@
 + Stream arayüzlerinin metotları
 + Örnek uygulamalar
 
-## Spring uygulamaları
+## Maven 
 + Maven build aracı kurulumu ve kullanımı
++ Maven ile jar oluşturma ve kullanma
++ Mavenlocal repository
++ Maven remote repository oluşturma
++ Maven central repository
++ Örnekler
+
+## Spring uygulamaları
 + Spring framework
 + Spring boot
 + Core annotaions (Component, Configuration, Bean, Order, DependsOn, Qualifier vb.)
@@ -102,7 +109,6 @@
 + application.properties dosyası
 + profile oluşturma
 + yml dosyaları
-+ Maven ile jar oluşturma ve kullanma
 + Test işlemleri (JUnit vb)
 + Spring boot uygulamasının jar ile yayınlanması (deployment)
 + Spring asenkron işlemler
@@ -123,7 +129,12 @@
 + Thymeleaf kullanımı (temel düzeyde)
 + Spring boot exception işlemleri
 + Spring Security 
-+ Spring ile reactif programlama (WebFlux)
++ Spring ile reaktif programlama (WebFlux)
 + Spring MongoDB uygulamaları
++ RestTemplate sınıfı ve uygulamaları
 + Mikroservisler
++ Java'da doküman oluşturma (javadoc)
++ Spring komut satırı argümanlarının çalışma zamanında elde edilmesi
++ Spring properties dosyasının çalışma zamanında okunması
++ Retrofit kullanımı ve uygulamaları
 + Örnek Uygulamalar
