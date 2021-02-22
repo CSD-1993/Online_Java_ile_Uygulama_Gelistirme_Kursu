@@ -25,7 +25,7 @@ Bu programa katılabilmek için daha _Java_ veya _C#_ dillerinden birini bilmek 
 Programın toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi __Cumartesi - Pazar__ günleri saat __09:00-00 – 13-00__ saatleri arasında __4__'er saat olarak yapılacaktır.
+Dersler hafta içi __Cumartesi - Pazar__ günleri saat __17:00-00 – 21-00__ saatleri arasında __4__'er saat olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
